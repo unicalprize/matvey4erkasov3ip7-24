@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Мяч Nike", "brand": "Nike", "category": "Игры", "price": 1500, "quantity": 5},
+  {"id": 2, "name": "Гантель", "brand": "Fit", "category": "Фитнес", "price": 800, "quantity": 2},
+  {"id": 3, "name": "Скакалка", "brand": "Adidas", "category": "Фитнес", "price": 500, "quantity": 3}
+]
